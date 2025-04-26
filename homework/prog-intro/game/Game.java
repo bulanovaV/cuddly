@@ -1,7 +1,6 @@
 package game;
 
 public class Game {
-    // final
     private static Player player1;
     private static Player player2;
     private static int p;
