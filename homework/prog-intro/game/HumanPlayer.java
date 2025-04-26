@@ -4,7 +4,7 @@ import java.io.PrintStream;
 import java.util.Scanner;
 
 public class HumanPlayer implements Player {
-    private Scanner in; // final
+    private final Scanner in;
 
     private PrintStream out;
 
